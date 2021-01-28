@@ -1,0 +1,12 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+}
+
+.box {
+    width: 100px;
+    height: 80px;
+    background-color: darkseagreen;
+    backface-visibility: visible;
+}
